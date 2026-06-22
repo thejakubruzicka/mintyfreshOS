@@ -1,6 +1,8 @@
 ![mintyfreshOS logo](image.png)
 
 # As of 22. June 2025 the project development is paused
+Right now the development is paused, I want to revive the project soon.. hopefully this time it will work out.
+
 
 ## Welcome to mintyfreshOS!
 I am still Working on this website. If you know what to add here please inform me in any way!
